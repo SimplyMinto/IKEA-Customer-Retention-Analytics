@@ -100,13 +100,15 @@ Detailed documentation covering project objectives, methodology, assumptions, an
 
 ---
 ## 📦 Repository Structure
-data/ → Datasets used for analysis
-analysis/ → Analysis-related files
-powerbi/ → Power BI (.pbix) dashboard
-docs/ → Project documentation
-exports/ → Exported reports (PDF / HTML)
-resources/ → Images, logos, and supporting assets
-insights/ → Dashboard screenshots used in README
+
+- `data/` – Datasets used for analysis  
+- `analysis/` – Analysis-related files  
+- `powerbi/` – Power BI (.pbix) dashboard  
+- `docs/` – Project documentation  
+- `exports/` – Exported reports (PDF / HTML)  
+- `resources/` – Images, logos, and supporting assets  
+- `insights/` – Dashboard screenshots used in README 
+
 ---
 
 ## 🧾 Business Impact
