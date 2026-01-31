@@ -1,0 +1,11 @@
+Store_ID,City,Region,Store_Type,Opening_Year
+S101,Birmingham,London,Superstore,2021
+S102,Leeds,London,Express,2020
+S103,Birmingham,London,Express,2020
+S104,Manchester,Leeds,Superstore,2010
+S105,London,Birmingham,Express,2022
+S106,Manchester,Manchester,Express,2010
+S107,Manchester,London,Express,2019
+S108,Leeds,Birmingham,Express,2018
+S109,London,Birmingham,Superstore,2016
+S110,London,Manchester,Superstore,2010
