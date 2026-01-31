@@ -99,7 +99,6 @@ Due to file size limitations, the complete dashboard walkthrough video is hosted
 Detailed documentation covering project objectives, methodology, assumptions, and insights is available in the `docs/` folder.
 
 ---
-
 ## 📦 Repository Structure
 data/ → Datasets used for analysis
 analysis/ → Analysis-related files
@@ -108,7 +107,6 @@ docs/ → Project documentation
 exports/ → Exported reports (PDF / HTML)
 resources/ → Images, logos, and supporting assets
 insights/ → Dashboard screenshots used in README
-
 ---
 
 ## 🧾 Business Impact
