@@ -48,4 +48,58 @@ Due to file size limitations, the complete dashboard walkthrough is hosted exter
 (The same link is also referenced in the project documentation.)
 
 ## 📄 Documentation
-Detailed documentation covering project objectives, methodology, and insights is available in the
+Detailed documentation covering project objectives, methodology, and insights is available in the `docs/` folder.
+
+## 📦 Repository Structure
+data/ → Datasets used for analysis
+analysis/ → Analysis-related files
+powerbi/ → Power BI (.pbix) dashboard
+docs/ → Project documentation
+exports/ → Exported reports (PDF / HTML)
+resources/ → Images, logos, and supporting assets
+insights/ → Dashboard screenshots used in README
+
+
+---
+
+## 📊 Key Insights (Visual Evidence)
+
+### 1️⃣ Customer Retention by Segment
+![Customer Retention by Segment](insights/retention_rate_by_segment.png)
+
+**Insight:**  
+Certain customer segments demonstrate significantly higher retention, indicating strong loyalty and repeat engagement.
+
+---
+
+### 2️⃣ Churn Analysis
+![Churn Analysis](insights/churn_analysis.png)
+
+**Insight:**  
+Churn is notably higher among low-frequency buyers, highlighting the need for targeted engagement and reactivation strategies.
+
+---
+
+### 3️⃣ Repeat Purchase Trends
+![Repeat Purchase Trends](insights/repeat_purchase_trends.png)
+
+**Insight:**  
+Customers enrolled in loyalty programs show higher repeat purchase frequency, reinforcing the importance of loyalty-driven retention.
+
+---
+
+### 4️⃣ Revenue Contribution by Customer Type
+![Revenue Contribution by Customer Type](insights/revenue_by_customer_type.png)
+
+**Insight:**  
+A relatively small group of loyal customers contributes a disproportionately large share of total revenue.
+
+---
+
+## 🧾 Business Impact
+This analysis enables the identification of at-risk customers and high-value segments, supporting data-driven decisions to improve retention, increase repeat purchases, and enhance overall customer lifetime value.
+
+## 🔖 Notes
+- This project is created for analytical and educational purposes.  
+- All brand names and datasets are used strictly for demonstration purposes.  
+
