@@ -109,7 +109,6 @@ exports/ → Exported reports (PDF / HTML)
 resources/ → Images, logos, and supporting assets
 insights/ → Dashboard screenshots used in README
 
-
 ---
 
 ## 🧾 Business Impact
